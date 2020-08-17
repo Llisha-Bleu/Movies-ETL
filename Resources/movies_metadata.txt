@@ -1,0 +1,7 @@
+Unable to upload CSV files for ratings and movies_metadata as files are too large. Github only permits files of up to 25MB to be uploaded. Anything larger than will generate an error.
+
+**ratings.csv**
+https://www.kaggle.com/rounakbanik/the-movies-dataset/data?select=ratings.csv
+
+**movies_metadata**
+https://www.kaggle.com/rounakbanik/the-movies-dataset/data?select=movies_metadata.csv
