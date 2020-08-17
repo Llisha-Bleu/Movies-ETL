@@ -73,6 +73,11 @@ The purpose of this project is to create an automated pipeline that takes in new
 >Python, Pandas, the ETL process, code refactoring, and PostgreSQL was used to add the movies_df DataFrame and MovieLens rating CSV data to a SQL database.
 >
 >
+>**Loading ratings to PostgresSQL from the terminal:**
+>
+>![Ratings_PostgresSQL](./Resources/Ratings_PostgresSQL.png)
+>
+>
 >**Movies with ratings dataframe from the terminal:**
 >
 >![movies_query](./Resources/movies_query.png)
