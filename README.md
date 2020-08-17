@@ -1,5 +1,5 @@
 # Movies-ETL
-New project on world weather analysis. Making changes to the weather app.
+New project on Movies ETL analysis. Making changes to the weather app.
 
 ## Project Overview
 This project will be using Python, Pandas and API Keys to create a travel and destination map fuse with weather data. It has been recommended that a few changes are to me made in order to take the app to the next level. Recommendations requested specifically asks for adding the weather description to the weather data already retrieved. Afterwhich, the beta testers will use input statements to filter the data for their weather preferences, which will be used to identify potential travel destinations and nearby hotels. From the list of potential travel destinations, the beta tester will choose four cities to create a travel itinerary. Finally, using the Google Maps Directions API, a travel route will be ctreated between the four cities as well as a marker layer map. Ergo, this assignment consists of three technical deliverables. They are:
@@ -30,17 +30,17 @@ The purpose of this project is to create an automated pipeline that takes in new
 >
 >**Wiki movies DataFrame from the terminal:**
 >
->![wiki_movies_df](./Resources/wiki_movies_df.png)
+>![wiki_movies_df](./Resources/wiki_movies_df.PNG)
 >
 >
 >**Kaggle Metadata from the terminal:**
 >
->![kaggle_metadata](./Resources/kaggle_metadata.png)
+>![kaggle_metadata](./Resources/kaggle_metadata.PNG)
 >
 >
 >**Ratings from the terminal:**
 >
->![ratings](./Resources/ratings.png)
+>![ratings](./Resources/ratings.PNG)
 >
 >
 ### **Deliverable 2: Extract and Transform the Wikipedia Data Results**
@@ -49,11 +49,11 @@ The purpose of this project is to create an automated pipeline that takes in new
 >
 >**Wiki Movies dataframe from the terminal:**
 >
->![wiki_movies_df2](./Resources/wiki_movies_df2.png)
+>![wiki_movies_df2](./Resources/wiki_movies_df2.PNG)
 >
 >**Wiki Movies dataframe columns list from the terminal:**
 >
->![wiki_movies_df_columns_list](./Resources/wiki_movies_df_columns_list.png)
+>![wiki_movies_df_columns_list](./Resources/wiki_movies_df_columns_list.PNG)
 >
 >
 ### **Deliverable 3: Extract and Transform the Kaggle Data**
@@ -62,11 +62,11 @@ The purpose of this project is to create an automated pipeline that takes in new
 >
 >**Movies with ratings dataframe from the terminal:**
 >
->![movies_with_ratings_df](./Resources/movies_with_ratings_df.png)
+>![movies_with_ratings_df](./Resources/movies_with_ratings_df.PNG)
 >
 >**Movies dataframe from the terminal:**
 >
->![movies_df](./Resources/movies_df.png)
+>![movies_df](./Resources/movies_df.PNG)
 >
 >
 ### **Deliverable 4: Create the Movie Database**
