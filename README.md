@@ -25,7 +25,7 @@ The purpose of this project is to create an automated pipeline that takes in new
 >Code was refactored from `JSON Practice.ipynb` to create one function that takes in the three files—Wikipedia data, Kaggle metadata, and the MovieLens rating data—and performs the ETL process by adding the data to a PostgreSQL database.
 >
 >
-### **Movies ETL Results**
+### **Deliverable 1: Write an ETL Function to Read Three Data Files s**
 >Python, Pandas, the ETL process,and code refactoring, was used to write a function that reads in the three data files and creates three separate DataFrames.
 >
 >**Wiki movies DataFrame from the terminal:**
