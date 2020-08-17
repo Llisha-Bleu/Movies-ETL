@@ -2,7 +2,7 @@
 New project on Movies ETL analysis. Making changes to the weather app.
 
 ## Project Overview
-This project will be using Python, Pandas and API Keys to create a travel and destination map fuse with weather data. It has been recommended that a few changes are to me made in order to take the app to the next level. Recommendations requested specifically asks for adding the weather description to the weather data already retrieved. Afterwhich, the beta testers will use input statements to filter the data for their weather preferences, which will be used to identify potential travel destinations and nearby hotels. From the list of potential travel destinations, the beta tester will choose four cities to create a travel itinerary. Finally, using the Google Maps Directions API, a travel route will be ctreated between the four cities as well as a marker layer map. Ergo, this assignment consists of three technical deliverables. They are:
+This project will be using Python, Pandas, the ETL process, and code refactoring to create an automated pipeline that takes in new data, performs the appropriate transformations, and loads the data into existing tables. Code will be needed to be refactored to create one function that takes in the three files—Wikipedia data, Kaggle metadata, and the MovieLens rating data—and performs the ETL process by adding the data to a PostgreSQL database. Ergo, this assignment consists of four technical deliverables. They are:
 
 - Deliverable 1: Write an ETL Function to Read Three Data Files
 - Deliverable 2: Extract and Transform the Wikipedia Data
