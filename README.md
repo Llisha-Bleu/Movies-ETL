@@ -78,7 +78,7 @@ The purpose of this project is to create an automated pipeline that takes in new
 >![Ratings_PostgresSQL](./Resources/Ratings_PostgresSQL.png)
 >
 >
->**Movies with ratings dataframe from the terminal:**
+>**Movies query dataframe from the terminal:**
 >
 >![movies_query](./Resources/movies_query.png)
 >
