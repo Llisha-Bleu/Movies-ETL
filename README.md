@@ -30,17 +30,17 @@ The purpose of this project is to create an automated pipeline that takes in new
 >
 >**Wiki movies DataFrame from the terminal:**
 >
->![wiki_movies_df](./Resources/wiki_movies_df.PNG)
+>![wiki_movies_df](./Resources/wiki_movies_df.png)
 >
 >
 >**Kaggle Metadata from the terminal:**
 >
->![kaggle_metadata](./Resources/kaggle_metadata.PNG)
+>![kaggle_metadata](./Resources/kaggle_metadata.png)
 >
 >
 >**Ratings from the terminal:**
 >
->![ratings](./Resources/ratings.PNG)
+>![ratings](./Resources/ratings.png)
 >
 >
 ### **Deliverable 2: Extract and Transform the Wikipedia Data Results**
@@ -49,11 +49,11 @@ The purpose of this project is to create an automated pipeline that takes in new
 >
 >**Wiki Movies dataframe from the terminal:**
 >
->![wiki_movies_df2](./Resources/wiki_movies_df2.PNG)
+>![wiki_movies_df2](./Resources/wiki_movies_df2.png)
 >
 >**Wiki Movies dataframe columns list from the terminal:**
 >
->![wiki_movies_df_columns_list](./Resources/wiki_movies_df_columns_list.PNG)
+>![wiki_movies_df_columns_list](./Resources/wiki_movies_df_columns_list.png)
 >
 >
 ### **Deliverable 3: Extract and Transform the Kaggle Data**
@@ -62,11 +62,11 @@ The purpose of this project is to create an automated pipeline that takes in new
 >
 >**Movies with ratings dataframe from the terminal:**
 >
->![movies_with_ratings_df](./Resources/movies_with_ratings_df.PNG)
+>![movies_with_ratings_df](./Resources/movies_with_ratings_df.png)
 >
 >**Movies dataframe from the terminal:**
 >
->![movies_df](./Resources/movies_df.PNG)
+>![movies_df](./Resources/movies_df.png)
 >
 >
 ### **Deliverable 4: Create the Movie Database**
